@@ -1,4 +1,4 @@
-# A comparison of several plotting techniques for Jupyter Notebooks compared. 
+# A comparison of several plotting techniques for Jupyter Notebooks. 
 
 if you miss a repo please PR. 
 
