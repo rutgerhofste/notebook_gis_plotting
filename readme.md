@@ -53,5 +53,8 @@ Cons:
 1. 2D only. 
 1. How to combine server and client side data in one map. 
 
+## Other
+1. cartopy. Good for printing static maps.
+1. ... please add PR. 
 
 
